@@ -30,4 +30,7 @@ No key pressed (case 0): Stop the wheels
 
 There are sensors on the robot that will detect what color is on the ground, and display the corresponding color in the output. The code will also read what color was detected. 
 
+# Ultrasonic sensor
+
+Ultrasonic sensors can detect how far an object ahead is from the car and stop it.
 
